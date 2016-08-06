@@ -217,6 +217,14 @@
 #define _crSel              KEY_CrSel_Props
 #define _exSel              KEY_ExSel
 #define _sysReq             KEY_SysReq_Attention
+// ---
+#define _play_mk            MEDIAKEY_PLAY_PAUSE
+#define _stop_mk            MEDIAKEY_STOP
+#define _prev_mk            MEDIAKEY_PREV_TRACK
+#define _next_mk            MEDIAKEY_NEXT_TRACK
+#define _mute_mk            MEDIAKEY_AUDIO_MUTE
+#define _up_mk              MEDIAKEY_AUDIO_VOL_UP
+#define _down_mk            MEDIAKEY_AUDIO_VOL_DOWN
 
 
 // ----------------------------------------------------------------------------
